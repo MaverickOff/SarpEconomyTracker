@@ -1,0 +1,39 @@
+body {
+  background-color: rgb(190, 190, 190);
+  font-family: Roboto, "Open Sans", sans-serif, system-ui;
+}
+
+/* Manejo de grids */
+
+.contenedor-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(4, 1fr);
+  height: 95vh; /* Asegura que el contenedor de grid ocupe el 100% de la altura de la pantalla */
+  width: 100%; /* Asegura que el contenedor de grid ocupe el 100% del ancho de la pantalla */
+}
+
+.contenedor {
+  background-color: rgb(238, 238, 238);
+  border: 3px solid rgb(238, 238, 238);
+  margin: 1vw;
+}
+
+.contenedor-grid .contenedor:first-child {
+  grid-column: span 3;
+}
+
+.contenedor-grid .contenedor:nth-child(2) {
+  grid-column: 3;
+  grid-row: 2 / span 4;
+}
+
+.contenedor-grid .contenedor:nth-child(3) {
+  grid-column: span 2;
+  grid-row: 2 / span 2;
+}
+
+.contenedor-grid .contenedor:nth-child(4) {
+  grid-column: span 2;
+  grid-row: 4;
+}

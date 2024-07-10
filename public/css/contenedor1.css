@@ -1,0 +1,38 @@
+.contenedor-grid .contenedor:first-child {
+  font-size: 24px;
+  display: flex;
+  justify-content: center; /* Centrado horizontal */
+  align-items: center; /* Centrado vertical */
+}
+
+.contenedor-grid .contenedor:first-child span {
+  color: #50c878;
+}
+
+/* Sección Historial*/
+
+.contenedor-grid .contenedor:nth-child(2) {
+  text-align: center;
+}
+.contenedor-grid .contenedor:nth-child(2) h1 {
+  margin-bottom: 5vh;
+}
+.saldo-1 {
+  font-size: 1.2em;
+}
+
+.saldo-2 {
+  font-size: 1.15em;
+}
+
+.saldo-3 {
+  font-size: 1.1em;
+}
+
+.saldo-4 {
+  font-size: 1.05em;
+}
+
+.saldo-5 {
+  font-size: 1em;
+}

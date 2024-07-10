@@ -1,0 +1,500 @@
+[23:30:50] {FFFFFF}SA-MP {B9C9BF}0.3.DL-R1 {FFFFFF}Started
+
+[23:30:53] Connecting to 148.59.74.52:7777...
+
+[23:30:55] Connected. Joining the game...
+
+[23:30:57] [-] Travis Stillson ha desconectado (quit)
+
+[23:30:59] Connected to {B9C9BF}[0.3.DL] San Andreas Roleplay | sa-rp.es
+
+[23:31:01]  
+
+[23:31:01]  
+
+[23:31:01]  
+
+[23:31:01]  
+
+[23:31:01]  
+
+[23:31:01]  
+
+[23:31:01]  
+
+[23:31:01]  
+
+[23:31:01]  
+
+[23:31:01]  
+
+[23:31:01]  
+
+[23:31:01]  
+
+[23:31:01]  
+
+[23:31:01]  
+
+[23:31:01]  
+
+[23:31:01]  
+
+[23:31:01]  
+
+[23:31:01]  
+
+[23:31:01]  
+
+[23:31:01]  
+
+[23:31:19] SERVER: Bienvenido a {c88a12}San Andreas Roleplay{ffffff} (2.3), {996b2d}Luca Carnetti{FFFFFF}.
+
+[23:31:19] Tu �ltima conexi�n fue el 2024-07-06 17:40:35.
+
+[23:31:19] SPAWN: Si apareces en las coordenadas incorrectas, debes utilizar '/autofix' o '/reportar'.
+
+[23:31:33] Miembros de Trucks, Mud and Big Tits:
+
+[23:31:33] (ID: 38) Redneck Luca Carnetti [ElTerrorDeLaNoche]
+
+[23:31:33] (ID: 25) Redneck Allen Frost (L�DER) [SYL]
+
+[23:31:33] (ID: 51) Redneck Earl Carlson [Surferboy]
+
+[23:31:33] Total miembros: 3 de 7
+
+[23:31:47] > abre una puerta.
+
+[23:31:51] > cierra una puerta.
+
+[23:31:58] Truck Terminal Blueberry Acres: 2425 Fresa Street, Blueberry, Red County 890, San Andreas
+
+[23:32:06] > abre el maletero del Towtruck.
+
+[23:32:06] USO: /(mal)etero [abrir | cerrar | sacar | guardar]
+
+[23:32:07] Tienes las llaves del Towtruck.
+
+[23:32:16] > saca Mochila de deporte del maletero del Towtruck.
+
+[23:32:17] Mochila de deporte est� vac�o.
+
+[23:32:19] > guarda Mochila de deporte en el maletero del Towtruck.
+
+[23:32:25] Has activado tu Camper de matr�cula 3VYJ070 (ID: 533).
+
+[23:32:30] Tienes las llaves del Camper.
+
+[23:32:33] Sacas tu Smartphone negro.
+
+[23:32:36] [ _______ �LTIMOS ANUNCIOS PUBLICADOS _______ ]
+
+[23:32:36] [N� 1]: Transport Company esta en busqueda de nuevos choferes, �Que esperas para pertenecer a el equipo? (/prop 2443)
+
+[23:32:36] [N� 2]: (MexicanaTires) �Buscas calidad y buen precio? �MexicanaTires es tu mejor opci�n para llantas y accesorios!(/pro...
+
+[23:32:36] ...p 1981), TLF: #
+
+[23:32:36] [N� 3]: El Compadrito Workshop abierto para todo el mundo, Fixxing, Tunning and more. (/prop 1920)
+
+[23:32:36] [N� 4]: [Trans-Fender Temple] �Adquiere los mejores servicios en reparaci�n y modificaciones, llama al 1924745 para gr�a...
+
+[23:32:36] ...! (/prop 1999)
+
+[23:32:36] [N� 5]: (MexicanaTires) �Ilumina tu camino! Encuentra las mejores ofertas en llantas y servicios para tu coche en Mexica...
+
+[23:32:36] ...naTires. (/prop
+
+[23:32:36] [N� 6]: (MexicanaTires) �Despega con confianza! Reparaci�n y mantenimiento de calidad para tu veh�culo en MexicanaTires....
+
+[23:32:36] ...(/prop 1981), T
+
+[23:32:36] [N� 7]: Busco taller abierto con gr�a disponible, llamar al n�mero en pantalla., TLF: #3556293.
+
+[23:32:36] [N� 8]: [bleeter] jbuenaventura: La crisis de seguridad en el 2do distrito aumenta, �d�nde est� la respuesta de @davidka...
+
+[23:32:36] ...tz?, TLF: #6956
+
+[23:32:36] [N� 9]: NO DEJES DE VENIR A TU BAR FAVORITO, DOOMHALL SE MUDA A MONTGOMERY, PRUEBA NUESTRA CERVEZA ARTESANAL. (/prop 896)
+
+[23:32:36] [N� 10]: El compadrito WorkShop | Abierto | Las mejores reparacion con los mejores precios, ven de una vez.  (/prop 1920)
+
+[23:32:36] [N� 11]: (MexicanaTires) �Despega con confianza! Reparaci�n y mantenimiento de calidad para tu veh�culo en MexicanaTires...
+
+[23:32:36] .... (/prop 1981)
+
+[23:32:36] [N� 12]: (MexicanaTires) �Repara, tunea y mejora! Todo lo que necesitas para tu auto est� en MexicanaTires. �No te quede...
+
+[23:32:36] ...s atr�s! (/pr, T
+
+[23:32:36] [N� 13]: (MexicanaTires) Mec�nica profesional, tu carro en manos de los mejores. (/prop 1981), TLF: #9170468.
+
+[23:32:36] [N� 14]: (MexicanaTires) �Tu carro requiere mantenimiento o mejoras? �Nosotros te ayudamos! (/prop 1981)
+
+[23:32:36] [N� 15]: (MexicanaTires) Mec�nica profesional, trae tu carro a MexicanaTires, somos los mejores. (/prop 1981), TLF: #917...
+
+[23:32:36] ...0468.
+
+[23:32:36] [N� 16]: Transport Company en busqueda de nuevos choferes | Bonos extra | te esperamos. (/prop 2443)
+
+[23:32:36] [N� 17]: Luxury Custom's | Expertos en Reparaciones - Tunning | �Los esperamos! (/prop 1976)
+
+[23:32:36] [N� 18]: Se busca servcio mec�nico para reparaci�n, favor de llamar al contacto., TLF: #5171060.
+
+[23:32:36] [N� 19]: ����
+
+[23:32:36] [N� 20]: Busco comprar empresa de taxi, TLF: #4046551.
+
+[23:32:36] [N� 21]: Haz publicidad en LSin5, el medio digital m�s visitado de Los Santos | Llamar al siguiente n�mero, TLF: #7565891.
+
+[23:32:36] [N� 22]: Luxury Custom's | Reparaciones - Tunning | �Te esperamos! (/prop 1976)
+
+[23:32:36] [N� 23]: ����
+
+[23:32:48] Has marcado la propiedad 1981 en el mapa.
+
+[23:32:52] * Luca Carnetti arranca el motor del Camper.
+
+[23:33:04] �Has abandonado tu puesto de trabajo, debes regresar en 5 minutos!
+
+[23:33:18] No est�s dentro ni cerca del negocio, o en un veh�culo de empresa.
+
+[23:33:22] * Ahora no est�s de servicio como empleado.
+
+[23:33:40] Has activado tu Roadtrain de matr�cula 1AIX071 (ID: 507).
+
+[23:33:44] Has marcado la propiedad 1981 en el mapa.
+
+[23:35:28] [ === PAYCHECK 07/07/2024 - 00:35:14 === ]
+
+[23:35:28] | Sueldo: {33aa33}$150
+
+[23:35:28] | Impuestos: {AA3333}-$8
+
+[23:35:28] -----------------------------------------
+
+[23:35:28] | Nuevo balance: {FFFFFF}$225,307
+
+[23:35:28] [ ____________________________________ ]
+
+[23:35:37] [ ________________________ Estad�sticas de Luca Carnetti ________________________ ]
+
+[23:35:37] [CUENTA]:{BFC0C2} Nick: ElTerrorDeLaNoche [ID: 353] | Personaje: Luca Carnetti [ID: 491] | Premium: No | Monedas: 33
+
+[23:35:37] [PROGRESO]:{BFC0C2} Nivel: 8 | Experiencia: [72 / 96] | Horas totales: 260 | Racha: 1 horas | Puntos de rol: 1
+
+[23:35:37] [PERSONAJE]:{BFC0C2} Vida: 94.0 | Chaleco: 0.0 | Edad: 35 a�os | Ropa: 33 | Estilo de lucha: Normal
+
+[23:35:37] [DINERO]:{BFC0C2} Efectivo: [$0] | Banco: [$225,307] | Boleto de loter�a: [0]
+
+[23:35:37] [FACCI�N]:{BFC0C2} Facci�n: TMBT [12] | Rango: Redneck | Sueldo: $0 | De servicio: no | Ropa de trabajo: 0
+
+[23:35:37] [EMPRESA]:{BFC0C2} Empresa: Truck Terminal Blueberry Acres [2425] | Cargo: Empleado + | Salario base: $300 | Bonus salario: $320
+
+[23:35:37] [EMPRESA]:{BFC0C2} De servicio: no | Minutos de servicio: 19
+
+[23:35:37] [DELINCUENTE]:{BFC0C2} Habilidad de robo: 76 | Habilidad de robo veh�culos: 38 | Habilidad de robo propiedades: 0
+
+[23:35:37] [C�RCEL]:{BFC0C2} Tiempo c�rcel: 0 | Tiempo c�rcel administrativa: 0 | Total sanciones administrativas: [1 / 6]
+
+[23:35:37] [PROPIEDADES]:{BFC0C2} Casas: 715, -, - | Negocios: -, - | Almacenes: -, - | Complejos: -, -
+
+[23:35:37] [LLAVES PRESTADAS]:{BFC0C2} Llaves prestadas casa: -, - | Llaves prestadas negocio: - | Llaves prestadas alm�cen: -, -
+
+[23:35:37] [VEH�CULOS ACTIVOS]:{BFC0C2} Propios: 1AIX071, 3VYJ070, -, -, -, - | Prestados: -, -, -
+
+[23:36:39] [Anuncio] �Sin empleo? �Ven a Speed Cargo y obt�n uno! buscamos repartidores | reparaciones gratis. (/prop 1996), TLF: #...
+
+[23:36:39] ...2051410.
+
+[23:37:05] [Anuncio] [BARBER SHOP] �Cambia tu estilo con un corte de pelo! Ac�rcate al local, por orden de llegada ((/prop 2363)), ...
+
+[23:37:05] ...TLF: #2420750.
+
+[23:37:52] Mexicana Tires: 1981 Cedar Street, East Los Santos, Los Santos 424, San Andreas
+
+[23:37:59] Comando desconocido (/anunc), utiliza /ayuda o /duda si necesitas soporte.
+
+[23:38:00] [ _______ �LTIMOS ANUNCIOS PUBLICADOS _______ ]
+
+[23:38:00] [N� 1]: [BARBER SHOP] �Cambia tu estilo con un corte de pelo! Ac�rcate al local, por orden de llegada ((/prop 2363)), TL...
+
+[23:38:00] ...F: #2420750.
+
+[23:38:00] [N� 2]: ����
+
+[23:38:00] [N� 3]: Transport Company esta en busqueda de nuevos choferes, �Que esperas para pertenecer a el equipo? (/prop 2443)
+
+[23:38:00] [N� 4]: (MexicanaTires) �Buscas calidad y buen precio? �MexicanaTires es tu mejor opci�n para llantas y accesorios!(/pro...
+
+[23:38:00] ...p 1981), TLF: #
+
+[23:38:00] [N� 5]: El Compadrito Workshop abierto para todo el mundo, Fixxing, Tunning and more. (/prop 1920)
+
+[23:38:00] [N� 6]: [Trans-Fender Temple] �Adquiere los mejores servicios en reparaci�n y modificaciones, llama al 1924745 para gr�a...
+
+[23:38:00] ...! (/prop 1999)
+
+[23:38:00] [N� 7]: (MexicanaTires) �Ilumina tu camino! Encuentra las mejores ofertas en llantas y servicios para tu coche en Mexica...
+
+[23:38:00] ...naTires. (/prop
+
+[23:38:00] [N� 8]: (MexicanaTires) �Despega con confianza! Reparaci�n y mantenimiento de calidad para tu veh�culo en MexicanaTires....
+
+[23:38:00] ...(/prop 1981), T
+
+[23:38:00] [N� 9]: Busco taller abierto con gr�a disponible, llamar al n�mero en pantalla., TLF: #3556293.
+
+[23:38:00] [N� 10]: [bleeter] jbuenaventura: La crisis de seguridad en el 2do distrito aumenta, �d�nde est� la respuesta de @davidk...
+
+[23:38:00] ...atz?, TLF: #6956
+
+[23:38:00] [N� 11]: NO DEJES DE VENIR A TU BAR FAVORITO, DOOMHALL SE MUDA A MONTGOMERY, PRUEBA NUESTRA CERVEZA ARTESANAL. (/prop 896)
+
+[23:38:00] [N� 12]: El compadrito WorkShop | Abierto | Las mejores reparacion con los mejores precios, ven de una vez.  (/prop 1920)
+
+[23:38:00] [N� 13]: (MexicanaTires) �Despega con confianza! Reparaci�n y mantenimiento de calidad para tu veh�culo en MexicanaTires...
+
+[23:38:00] .... (/prop 1981)
+
+[23:38:00] [N� 14]: (MexicanaTires) �Repara, tunea y mejora! Todo lo que necesitas para tu auto est� en MexicanaTires. �No te quede...
+
+[23:38:00] ...s atr�s! (/pr, T
+
+[23:38:00] [N� 15]: (MexicanaTires) Mec�nica profesional, tu carro en manos de los mejores. (/prop 1981), TLF: #9170468.
+
+[23:38:00] [N� 16]: (MexicanaTires) �Tu carro requiere mantenimiento o mejoras? �Nosotros te ayudamos! (/prop 1981)
+
+[23:38:00] [N� 17]: (MexicanaTires) Mec�nica profesional, trae tu carro a MexicanaTires, somos los mejores. (/prop 1981), TLF: #917...
+
+[23:38:00] ...0468.
+
+[23:38:00] [N� 18]: Transport Company en busqueda de nuevos choferes | Bonos extra | te esperamos. (/prop 2443)
+
+[23:38:00] [N� 19]: Luxury Custom's | Expertos en Reparaciones - Tunning | �Los esperamos! (/prop 1976)
+
+[23:38:00] [N� 20]: Se busca servcio mec�nico para reparaci�n, favor de llamar al contacto., TLF: #5171060.
+
+[23:38:00] [N� 21]: ����
+
+[23:38:00] [N� 22]: Busco comprar empresa de taxi, TLF: #4046551.
+
+[23:38:00] [N� 23]: Haz publicidad en LSin5, el medio digital m�s visitado de Los Santos | Llamar al siguiente n�mero, TLF: #7565891.
+
+[23:38:12] Has marcado la propiedad 1920 en el mapa.
+
+[23:38:59] El Compadrito Workshop: 1920 Terminal Way, Ocean Docks, Los Santos 218, San Andreas
+
+[23:39:00] > est� ingresando con su veh�culo.
+
+[23:39:06] El Compadrito Workshop: 1920 Terminal Way, Ocean Docks, Los Santos 218, San Andreas
+
+[23:39:25] El Compadrito Workshop: 1920 Terminal Way, Ocean Docks, Los Santos 218, San Andreas
+
+[23:39:51] * Luca Carnetti apaga el motor del Camper.
+
+[23:39:55] �Espera a terminar el llenado de combustible!
+
+[23:40:01] USO: (/c)erca(/c)oche [chat cercano]
+
+[23:40:08] [ ________ GASOLINERA ________ ]
+
+[23:40:08] | Precio gasolina: {FFFFFF}$3/l
+
+[23:40:08] | Litros pagados: {FFFFFF}10
+
+[23:40:08] | Total: {FFFFFF}$30
+
+[23:40:08] [ _____________________________ ]
+
+[23:40:08] * Tanque lleno, por $30.
+
+[23:40:12] USO: (/c)erca(/c)oche [chat cercano]
+
+[23:40:13] USO: (/c)erca(/c)oche [chat cercano]
+
+[23:40:16] Luca Carnetti dice [bajo]: a
+
+[23:40:33] * Luca Carnetti arranca el motor del Camper.
+
+[23:40:37] [ ________ GASOLINERA ________ ]
+
+[23:40:37] | Precio gasolina: {FFFFFF}$3/l
+
+[23:40:37] | Litros pagados: {FFFFFF}69
+
+[23:40:37] | Total: {FFFFFF}$207
+
+[23:40:37] [ _____________________________ ]
+
+[23:40:37] * Tanque lleno, por $207.
+
+[23:41:19] No se encontr� ning�n jugador con el nombre ''isi''.
+
+[23:41:43] * Luca Carnetti apaga el motor del Camper.
+
+[23:46:42] AdmCmd: Pasha Dankov ha sido expulsado por genaro. Raz�n: AFK
+
+[23:46:46] * Luca Carnetti arranca el motor del Camper.
+
+[23:47:32] Sam Lincoln dice: Venga, corre, vete al puto hospital.
+
+[23:47:32] Steve Briggs dice: Aqui hay ni�os, pueden verte.
+
+[23:47:37] Sam Lincoln dice: Nos vamos.
+
+[23:47:40] Steve Briggs dice: Vamos, vete.
+
+[23:47:44] * Snider Rosario se levanta y se mantiene mirando su entorno.
+
+[23:48:10] (( Mensaje privado de Keon Anderson (ID: 6): alto lagazo te diperdon ))
+
+[23:48:14] Comando desconocido (/ventana), utiliza /ayuda o /duda si necesitas soporte.
+
+[23:48:14] Sam Lincoln dice: La vida es dura.
+
+[23:48:19] Luca Carnetti grita: �Negro pedazo de mierda!
+
+[23:48:20] Keon Anderson dice: Muy dura...
+
+[23:48:23] Keon Anderson dice: Puffff.
+
+[23:48:27] Luca Carnetti grita: �Presta puta atenci�n a la calle!
+
+[23:48:27] Keon Anderson grita: �Muerete perra!
+
+[23:48:50] (( [38] Luca Carnetti: �No rolear� ese maric�n? ))
+
+[23:48:55] Tienes las llaves del Camper.
+
+[23:49:00] ID 6: Keon Anderson | Nivel: 11 | Ping: 194 | Packetloss: 0.04
+
+[23:49:18] Steve Briggs dice: Hey, el de la camioneta.
+
+[23:49:28] Comando desconocido (/ve), utiliza /ayuda o /duda si necesitas soporte.
+
+[23:49:31] Luca Carnetti dice: �Qu� quieres?
+
+[23:49:35] Steve Briggs dice: La vida es dura, repara eso en algun taller, como por ejemplo el de BlueBerry.
+
+[23:49:37] > ve a Steve.
+
+[23:51:20] Has marcado el negocio BackStreet - Tuner (2002) en el mapa.
+
+[23:51:55] 1069 Vinewood Boulevard, Market, Los Santos 343, San Andreas
+
+[23:52:00] BackStreet - Tuner: 2002 Vinewood Boulevard, Market, Los Santos 343, San Andreas
+
+[23:52:00] > est� ingresando con su veh�culo.
+
+[23:52:06] BackStreet - Tuner: 2002 Vinewood Boulevard, Market, Los Santos 343, San Andreas
+
+[23:52:32] Matthew Feng dice: Buenas, se�or.
+
+[23:52:34] Luca Carnetti dice: A trabajar.
+
+[23:52:41] Matthew Feng dice: �Qu� va a necesitar?
+
+[23:52:49] Luca Carnetti dice: Ya ves como est� esta mierda, reparalo.
+
+[23:52:58] * Luca Carnetti apaga el motor del Camper.
+
+[23:53:20] Matthew Feng dice: Bien, abra el motor.
+
+[23:53:20] Matthew Feng dice: Digo el capo.
+
+[23:53:24] > abre el capo del Camper.
+
+[23:53:40] * Matthew Feng revisa el estado del coche y saca las herramientas necesarias para reparar el motor del coche.
+
+[23:53:55] Luca Carnetti dice: Tambien quiero que lo pinte de verde militar por completo.
+
+[23:53:56] * Tras unos minutos el motor del coche estar�a completamente reparado. (( Matthew Feng ))
+
+[23:54:18] El mec�nico Matthew Feng ofrece reparar el motor por $500. Escribe /aceptar o /rechazar.
+
+[23:54:26] SMS de SABank: Has pagado $500 al mec�nico Matthew Feng del taller BackStreet - Tuner.
+
+[23:54:26] * Matthew Feng repara el motor del Camper de Luca Carnetti.
+
+[23:54:26] Le has pagado $500 a Matthew Feng por la reparaci�n de motor.
+
+[23:54:31] Matthew Feng dice: Bien... �qu� color en especifico?
+
+[23:54:47] * Denis Tsaryov arranca el motor del Sentinel.
+
+[23:54:48] (( Mensaje privado a Matthew Feng (ID: 22): 44  ))
+
+[23:54:49] Matthew Feng dice: Digame el n�mero de dalta y lo paso a pintar.
+
+[23:54:54] * Denis Tsaryov apaga el motor del Sentinel.
+
+[23:54:54] Luca Carnetti dice: Un verde muy muy militar.
+
+[23:55:02] Matthew Feng dice: Correcto.
+
+[23:55:59] La oferta ha caducado o nadie te ha ofertado.
+
+[23:56:11] * Equipo del taller entra a pintar las partes del camion, tratando de no pintar zonas de neumaticos y vidrios. (( Matthe...
+
+[23:56:11] ...w Feng ))
+
+[23:56:18] (( Mensaje privado de Matthew Feng (ID: 22): el segundo color? ))
+
+[23:56:29] (( Mensaje privado a Matthew Feng (ID: 22): El mismo ))
+
+[23:56:43] El mec�nico Matthew Feng ofrece repintar tu veh�culo (44,44) por $400. Escribe /aceptar o /rechazar.
+
+[23:56:46] SMS de SABank: Has pagado $400 al mec�nico Matthew Feng del taller BackStreet - Tuner.
+
+[23:56:46] * Matthew Feng repinta el Camper de Luca Carnetti.
+
+[23:56:46] Le has pagado $400 a Matthew Feng por el repintado.
+
+[23:57:09] Matthew Feng dice: �Quiere que el cambie esa puerta?
+
+[23:57:15] Luca Carnetti dice: Claro.
+
+[23:57:38] El mec�nico Matthew Feng ofrece reparar la chapa por $500 (servicio: $500, piezas: $0). Escribe /aceptar o /rechazar.
+
+[23:57:42] SMS de SABank: Has pagado $500 al mec�nico Matthew Feng del taller BackStreet - Tuner.
+
+[23:57:42] * Matthew Feng repara la carrocer�a del Camper de Luca Carnetti.
+
+[23:57:42] Le has pagado $500 a Matthew Feng por la reparaci�n de chapa.
+
+[23:58:04] Matthew Feng dice: Bien �Se le ofrece algo m�s?
+
+[23:58:04] Luca Carnetti dice: Gracias.
+
+[23:58:13] Matthew Feng dice: Nos vemos, gracias por elegirnos.
+
+[23:58:13] Luca Carnetti dice: Nada m�s, as� quedamos bien.
+
+[23:58:15] * Luca Carnetti arranca el motor del Camper.
+
+[23:58:32] BackStreet - Tuner: 2002 Vinewood Boulevard, Market, Los Santos 343, San Andreas
+
+[23:58:38] 1069 Vinewood Boulevard, Market, Los Santos 343, San Andreas
+
+[00:00:30] * Luca Carnetti apaga el motor del Camper.
+
+[00:00:36] Miembros de Trucks, Mud and Big Tits:
+
+[00:00:36] (ID: 38) Redneck Luca Carnetti [ElTerrorDeLaNoche]
+
+[00:00:36] (ID: 51) Redneck Earl Carlson [Surferboy]
+
+[00:00:36] Total miembros: 2 de 7
+
+[00:00:37] Truck Terminal Blueberry Acres: 2425 Fresa Street, Blueberry, Red County 890, San Andreas
+
+[00:00:52] > abre una puerta.
+
+[00:00:56] > cierra una puerta.
+
+[00:00:59] > abre una puerta.
+
+[00:01:01] > cierra una puerta.
+
