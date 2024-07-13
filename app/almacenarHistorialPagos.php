@@ -23,5 +23,4 @@ foreach ( $saldos_antiguos as $index => $saldo ) {
 mysqli_close( $conn );
 
 return $mostrar_saldo_antiguo;
-?>
 

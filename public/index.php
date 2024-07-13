@@ -1,6 +1,7 @@
 <?php
 $ultima_coincidencia = include '../app/procesarRegistrosChat.php';
 $mostrar_historial = include '../app/almacenarHistorialPagos.php';
+include '../app/datosEstadistica.php';
 ?>
 <!DOCTYPE html>
 <html lang='en'>
@@ -37,24 +38,24 @@ $mostrar_historial = include '../app/almacenarHistorialPagos.php';
 
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <script>
-    const ctx = document.getElementById("estadisticas-sarp").getContext("2d");
-    const etiquetas = ["Enero", "Febrero", "Marzo", "Abril", "Mayo"];
-    const data = {
-        labels: etiquetas,
-        datasets: [{
-            label: "Dinero ganado",
-            data: [1000, 5600, 13200, 15555, 30000],
-            borderColor: "rgb(75, 192, 192)",
-            tension: 0.1,
-        }, ],
-    };
+        const ctx = document.getElementById("estadisticas-sarp").getContext("2d");
+        const etiquetas = <?php echo $fecha_json; ?>;
+        const data = {
+            labels: etiquetas,
+            datasets: [{
+                label: "Banco",
+                data: <?php echo $dinero_json; ?>,
+                borderColor: "rgb(75, 192, 192)",
+                tension: 0.1,
+            },],
+        };
 
-    const config = {
-        type: "line",
-        data: data,
-    };
+        const config = {
+            type: "line",
+            data: data,
+        };
 
-    new Chart(ctx, config);
+        new Chart(ctx, config);
     </script>
 </body>
 
